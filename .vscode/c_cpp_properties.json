@@ -1,0 +1,43 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/Богдан/Documents/PlatformIO/Projects/CMSIS learning f446 stm32/include",
+                "C:/Users/Богдан/Documents/PlatformIO/Projects/CMSIS learning f446 stm32/src",
+                "C:/.platformio/packages/framework-cmsis/CMSIS/Include",
+                "C:/.platformio/packages/framework-cmsis-stm32f4/Include",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/Богдан/Documents/PlatformIO/Projects/CMSIS learning f446 stm32/include",
+                    "C:/Users/Богдан/Documents/PlatformIO/Projects/CMSIS learning f446 stm32/src",
+                    "C:/.platformio/packages/framework-cmsis/CMSIS/Include",
+                    "C:/.platformio/packages/framework-cmsis-stm32f4/Include",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50101",
+                "STM32F446xx",
+                "F_CPU=180000000L",
+                ""
+            ],
+            "cppStandard": "c++17",
+            "compilerPath": "C:/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m4",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
