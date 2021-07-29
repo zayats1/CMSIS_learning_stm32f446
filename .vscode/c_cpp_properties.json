@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/Богдан/Documents/PlatformIO/Projects/CMSIS learning f446 stm32/include",
-                "C:/Users/Богдан/Documents/PlatformIO/Projects/CMSIS learning f446 stm32/src",
+                "C:/Users/Богдан/Documents/PlatformIO/Projects/CMSIS_learning_stm32f446/include",
+                "C:/Users/Богдан/Documents/PlatformIO/Projects/CMSIS_learning_stm32f446/src",
                 "C:/.platformio/packages/framework-cmsis/CMSIS/Include",
                 "C:/.platformio/packages/framework-cmsis-stm32f4/Include",
                 ""
@@ -17,8 +17,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/Богдан/Documents/PlatformIO/Projects/CMSIS learning f446 stm32/include",
-                    "C:/Users/Богдан/Documents/PlatformIO/Projects/CMSIS learning f446 stm32/src",
+                    "C:/Users/Богдан/Documents/PlatformIO/Projects/CMSIS_learning_stm32f446/include",
+                    "C:/Users/Богдан/Documents/PlatformIO/Projects/CMSIS_learning_stm32f446/src",
                     "C:/.platformio/packages/framework-cmsis/CMSIS/Include",
                     "C:/.platformio/packages/framework-cmsis-stm32f4/Include",
                     ""
